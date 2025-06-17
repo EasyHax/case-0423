@@ -9,10 +9,10 @@ def decrypt(key, encrypted):
             decrypted += c
     return decrypted
 
-secretword = "" # i feel like something should be in between those quotes.. i should check the other files
+mysecretpassword = "" # i feel like something should be in between those quotes.. i should check the other files
 key = "mypass"
 
-print("result:" + decrypt(key, secretword))
+print("secret code:" + decrypt(key, mysecretpassword))
 
 # maybe i could run this code somewhere?
 # https://www.online-python.com/
