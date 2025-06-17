@@ -1,1 +1,78 @@
+| White Piece | Code       |
+| ----------- | ---------- |
+| Pawn (♙)    | N*  |
+| Knight (♘)  | -32.114673 |
+| Bishop (♗)  | 48.992304  |
+| Rook (♖)    | -80.547821 |
+| Queen (♕)   | 96.334710  |
+| King (♔)    | -12.008462 |
+
+
+| #  | City             | Code        |
+| -- | ---------------- | ----------- |
+| 1  | Lyon             | 73.291274   |
+| 2  | Marseille        | -121.836592 |
+| 3  | Bordeaux         | 89.107221   |
+| 4  | Nantes           | -45.912384  |
+| 5  | Lille            | 12.483772   |
+| 6  | Strasbourg       | 143.003619  |
+| 7  | Toulouse         | -61.224918  |
+| 8  | Villandry        | 43.978579   |
+| 9  | Rennes           | -38.377106  |
+| 10 | Dijon            | 66.014592   |
+| 11 | Reims            | -59.681704  |
+| 12 | Clermont-Ferrand | 17.843901   |
+| 13 | Grenoble         | -134.256738 |
+| 14 | Le Havre         | 28.476503   |
+| 15 | Metz             | -97.119842  |
+| 16 | Perpignan        | 77.004319   |
+| 17 | Besançon         | -35.991278  |
+| 18 | Orléans          | 104.678923  |
+| 19 | Amiens           | -41.134569  |
+| 20 | Brest            | 9.005213    |
+| 21 | Limoges          | -123.337414 |
+| 22 | Angers           | 81.223090   |
+| 23 | Tours            | -55.431263  |
+| 24 | Avignon          | 146.822103  |
+| 25 | Saint-Étienne    | -18.481050  |
+| 26 | Toulon           | 170.901238  |
+| 27 | Pau              | -29.223701  |
+| 28 | Caen             | 49.005186   |
+| 29 | Annecy           | -102.003521 |
+| 30 | Nîmes            | 33.088923   |
+
+
+
+| #  | Song Title         | Code        |
+| -- | ------------------ | ----------- |
+| 1  | All Too Well       | -118.472391 |
+| 2  | Blank Space        | 42.193022   |
+| 3  | Cruel Summer       | -91.620733  |
+| 4  | Style              | 67.559130   |
+| 5  | Love Story         | -150.002381 |
+| 6  | Enchanted          | 33.872016   |
+| 7  | Delicate           | -75.938700  |
+| 8  | The Archer         | 102.470829  |
+| 9  | Shake It Off       | 61.024115   |
+| 10 | Cardigan           | -140.614921 |
+| 11 | Willow             | -21.303741  |
+| 12 | Back to December   | 58.192084   |
+| 13 | The Man            | -97.000410  |
+| 14 | Bejeweled          | 123.348917  |
+| 15 | Lover              | -48.179634  |
+| 16 | Anti-Hero          | 160.888330  |
+| 17 | You Belong With Me | -89.531702  |
+| 18 | Getaway Car        | 17.745981   |
+| 19 | Out of the Woods   | -131.203742 |
+| 20 | Wildest Dreams     | 36.120833   |
+| 21 | Champagne Problems | -84.229011  |
+| 22 | How Did It End     | 15.383711   |
+| 23 | Mine               | 119.837220  |
+| 24 | August             | 53.612498   |
+| 25 | The Story of Us    | -38.400918  |
+| 26 | Sparks Fly         | 145.220184  |
+| 27 | Cornelia Street    | -30.104753  |
+| 28 | Fearless           | 111.496790  |
+| 29 | Maroon             | -73.885104  |
+| 30 | Don’t Blame Me     | 88.479320   |
 
