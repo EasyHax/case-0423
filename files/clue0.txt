@@ -1,1 +1,18 @@
+def decrypt(key, encrypted):
+    shift = len(key)
+    decrypted = ""
+    for c in encrypted:
+        if c.isalpha():
+            base = ord('a') if c.islower() else ord('A')
+            decrypted += chr((ord(c) - base - shift) % 26 + base)
+        else:
+            decrypted += c
+    return decrypted
 
+secretword = "" # i feel like something should be in between those quotes.. i should check the other files
+key = "mypass"
+
+print("result:" + decrypt(key, secretword))
+
+# maybe i could run this code somewhere?
+# https://www.online-python.com/
