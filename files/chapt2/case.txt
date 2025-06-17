@@ -1,2 +1,2 @@
-One folder is protected - it requires 3 words to enter.
-I need to look around..
+the folder i need to access is protected - it requires 3 words to enter.
+i need to look around..
