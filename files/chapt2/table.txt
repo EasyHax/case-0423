@@ -66,11 +66,12 @@
 | 29 | Maroon             | -73.885104  |
 | 30 | Don’t Blame Me     | 88.479320   |
 
-| Chess Piece | Password   |
-| ----------- | ---------- |
-| Pawn (♙)   | country   |
-| Knight (♘) | shape     |
-| Bishop (♗) | city      |
-| Rook (♖)   | sea       |
-| Queen (♕)  | area      |
-| King (♔)   | idk       |
+
+| Chess Piece |     Password     |
+| ----------- | ---------------- |
+| Pawn (♙)   | location country |
+| Knight (♘) | location shape   |
+| Bishop (♗) | location city    |
+| Rook (♖)   | location sea     |
+| Queen (♕)  | location area    |
+| King (♔)   | smth's wrong     |
