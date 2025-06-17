@@ -1,14 +1,4 @@
-| White Piece | Code       |
-| ----------- | ---------- |
-| Pawn (♙)    | N*  |
-| Knight (♘)  | -32.114673 |
-| Bishop (♗)  | 48.992304  |
-| Rook (♖)    | -80.547821 |
-| Queen (♕)   | 96.334710  |
-| King (♔)    | -12.008462 |
-
-
-| #  | City             | Code        |
+| #  | City             | Latitude    |
 | -- | ---------------- | ----------- |
 | 1  | Lyon             | 73.291274   |
 | 2  | Marseille        | -121.836592 |
@@ -43,7 +33,7 @@
 
 
 
-| #  | Song Title         | Code        |
+| #  | Song Title         | Longitude   |
 | -- | ------------------ | ----------- |
 | 1  | All Too Well       | -118.472391 |
 | 2  | Blank Space        | 42.193022   |
@@ -76,3 +66,11 @@
 | 29 | Maroon             | -73.885104  |
 | 30 | Don’t Blame Me     | 88.479320   |
 
+| Chess Piece | Password   |
+| ----------- | ---------- |
+| Pawn (♙)   | country   |
+| Knight (♘) | shape     |
+| Bishop (♗) | city      |
+| Rook (♖)   | sea       |
+| Queen (♕)  | area      |
+| King (♔)   | idk       |
