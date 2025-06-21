@@ -67,11 +67,11 @@
 | 30 | Don’t Blame Me     |
 
 
-| Chess Piece |     Password     |
-| ----------- | ---------------- |
-| Pawn (♙)   | location shape   |
-| Knight (♘) | location country |
-| Bishop (♗) | location city    |
-| Rook (♖)   | location sea     |
-| Queen (♕)  | location area    |
-| King (♔)   | smth's wrong     |
+| # | Chess Piece |
+| - | ----------  |
+| 1 | Pawn (♙)   |
+| 2 | Knight (♘) |
+| 3 | Bishop (♗) |
+| 4 | Rook (♖)   |
+| 5 | Queen (♕)  |
+| 6 | King (♔)   |
