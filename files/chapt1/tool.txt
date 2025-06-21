@@ -10,7 +10,7 @@ def decrypt(key, encrypted):
     return decrypted
 
 mysecretpassword = "" # i feel like something should be in between those quotes.. i should check the other files
-key = "mypass"
+key = "mypass" # i'll keep that in mind
 
 print("output:" + decrypt(key, mysecretpassword))
 
