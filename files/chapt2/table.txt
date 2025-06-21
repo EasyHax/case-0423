@@ -1,70 +1,70 @@
-| #  | City             | Latitude    |
-| -- | ---------------- | ----------- |
-| 1  | Lyon             | 73.291274   |
-| 2  | Marseille        | -121.836592 |
-| 3  | Bordeaux         | 89.107221   |
-| 4  | Nantes           | -45.912384  |
-| 5  | Lille            | 12.483772   |
-| 6  | Strasbourg       | 143.003619  |
-| 7  | Toulouse         | -61.224918  |
-| 8  | Villandry        | 43.978579   |
-| 9  | Rennes           | -38.377106  |
-| 10 | Dijon            | 66.014592   |
-| 11 | Reims            | -59.681704  |
-| 12 | Clermont-Ferrand | 17.843901   |
-| 13 | Grenoble         | -134.256738 |
-| 14 | Le Havre         | 28.476503   |
-| 15 | Metz             | -97.119842  |
-| 16 | Perpignan        | 77.004319   |
-| 17 | Besançon         | -35.991278  |
-| 18 | Orléans          | 104.678923  |
-| 19 | Amiens           | -41.134569  |
-| 20 | Brest            | 9.005213    |
-| 21 | Limoges          | -123.337414 |
-| 22 | Angers           | 81.223090   |
-| 23 | Tours            | -55.431263  |
-| 24 | Avignon          | 146.822103  |
-| 25 | Saint-Étienne    | -18.481050  |
-| 26 | Toulon           | 170.901238  |
-| 27 | Pau              | -29.223701  |
-| 28 | Caen             | 49.005186   |
-| 29 | Annecy           | -102.003521 |
-| 30 | Nîmes            | 33.088923   |
+| #  | City             |
+| -- | ---------------- |
+| 1  | Lyon             |
+| 2  | Marseille        |
+| 3  | Bordeaux         |
+| 4  | Nantes           |
+| 5  | Lille            |
+| 6  | Strasbourg       |
+| 7  | Toulouse         |
+| 8  | Villandry        |
+| 9  | Rennes           |
+| 10 | Dijon            |
+| 11 | Reims            |
+| 12 | Clermont-Ferrand |
+| 13 | Grenoble         |
+| 14 | Le Havre         |
+| 15 | Metz             |
+| 16 | Perpignan        |
+| 17 | Besançon         |
+| 18 | Orléans          |
+| 19 | Amiens           |
+| 20 | Brest            |
+| 21 | Limoges          |
+| 22 | Angers           |
+| 23 | Tours            |
+| 24 | Avignon          |
+| 25 | Saint-Étienne    |
+| 26 | Toulon           |
+| 27 | Pau              |
+| 28 | Caen             |
+| 29 | Annecy           |
+| 30 | Nîmes            |
 
 
 
-| #  | Song Title         | Longitude   |
-| -- | ------------------ | ----------- |
-| 1  | All Too Well       | -118.472391 |
-| 2  | Blank Space        | 42.193022   |
-| 3  | Cruel Summer       | -91.620733  |
-| 4  | Style              | 67.559130   |
-| 5  | Love Story         | -150.002381 |
-| 6  | Enchanted          | 33.872016   |
-| 7  | Delicate           | -75.938700  |
-| 8  | The Archer         | 102.470829  |
-| 9  | Shake It Off       | 61.024115   |
-| 10 | Cardigan           | -140.614921 |
-| 11 | Willow             | -21.303741  |
-| 12 | Back to December   | 58.192084   |
-| 13 | The Man            | -97.000410  |
-| 14 | Bejeweled          | 123.348917  |
-| 15 | Lover              | -48.179634  |
-| 16 | Anti-Hero          | 160.888330  |
-| 17 | You Belong With Me | -89.531702  |
-| 18 | Getaway Car        | 17.745981   |
-| 19 | Out of the Woods   | -131.203742 |
-| 20 | Wildest Dreams     | 36.120833   |
-| 21 | Champagne Problems | -84.229011  |
-| 22 | How Did It End     | 15.383711   |
-| 23 | Mine               | 119.837220  |
-| 24 | August             | 53.612498   |
-| 25 | The Story of Us    | -38.400918  |
-| 26 | Sparks Fly         | 145.220184  |
-| 27 | Cornelia Street    | -30.104753  |
-| 28 | Fearless           | 111.496790  |
-| 29 | Maroon             | -73.885104  |
-| 30 | Don’t Blame Me     | 88.479320   |
+| #  | Song Title         |
+| -- | ------------------ |
+| 1  | All Too Well       |
+| 2  | Blank Space        |
+| 3  | Cruel Summer       |
+| 4  | Style              |
+| 5  | Love Story         |
+| 6  | Enchanted          |
+| 7  | Delicate           |
+| 8  | The Archer         |
+| 9  | Shake It Off       |
+| 10 | Cardigan           |
+| 11 | Willow             |
+| 12 | Back to December   |
+| 13 | The Man            |
+| 14 | Bejeweled          |
+| 15 | Lover              |
+| 16 | Anti-Hero          |
+| 17 | You Belong With Me |
+| 18 | Getaway Car        |
+| 19 | Out of the Woods   |
+| 20 | Wildest Dreams     |
+| 21 | Champagne Problems |
+| 22 | How Did It End     |
+| 23 | Mine               |
+| 24 | August             |
+| 25 | The Story of Us    |
+| 26 | Sparks Fly         |
+| 27 | Cornelia Street    |
+| 28 | Fearless           |
+| 29 | Maroon             |
+| 30 | Don’t Blame Me     |
 
 
 | Chess Piece |     Password     |
