@@ -69,8 +69,8 @@
 
 | Chess Piece |     Password     |
 | ----------- | ---------------- |
-| Pawn (♙)   | location country |
-| Knight (♘) | location shape   |
+| Pawn (♙)   | location shape   |
+| Knight (♘) | location country |
 | Bishop (♗) | location city    |
 | Rook (♖)   | location sea     |
 | Queen (♕)  | location area    |
